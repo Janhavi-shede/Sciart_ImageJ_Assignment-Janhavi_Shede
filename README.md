@@ -40,8 +40,8 @@ After analysis was done, a results table was generated along with an overlay tha
 The results table was saved as a CSV file: Results → File → Save As
 It was saved as 'particle_count_result_aatf.csv'
 
-The processed image was then saved as a TIFF file: File → Save As → TIFF
-It was saved as 'result_image_aatf.tif'
+The processed image was then saved as a TIFF file: File → Save As → TIFF.
+It was saved as 'result_image_aatf.tif'.
 
 ### The Final Result
 
