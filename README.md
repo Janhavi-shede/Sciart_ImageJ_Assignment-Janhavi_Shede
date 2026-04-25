@@ -30,7 +30,7 @@ Then, I applied watershed segmentation by using: Process → Binary → Watershe
 **Step 4: Particle Analysis of the Image**
 
 I performed particle analysis using: Analyze → Analyze Particles
-The parameters used were: Size range as*50 – Infinity pixels* and Circularity as *0.40 – 1.00*
+The parameters used were: Size range as *50 – Infinity pixels* and Circularity as *0.40 – 1.00*.
 And 'Display Results', 'Summarize', 'Exclude on Edges', 'Add to Manager' and 'Overlay' options were *selected*.
 
 After analysis was done, a results table was generated along with an overlay that showed the detected particles.
