@@ -13,7 +13,7 @@ I converted the image to 8-bit grayscale to standardize the format by using: Ima
 
 Then I removed background noise with the help of subtract background function:
 Process → Subtract Background
-Rolling Ball Radius to *12 pixels* and Light background option was *unselected*
+'Rolling Ball Radius' to *12 pixels* and 'Light background' option was *unselected*
 
 Later I adjusted the brightness and contrastb: Image → Adjust → Brightness/Contrast
 I applied 'Auto' about 6-7 times till I found the result satisfactory and the clicked 'Apply'.
