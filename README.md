@@ -4,7 +4,7 @@
 
 I began by retrieving a raw AATF image from the OpenCell online database, prioritizing a sample with distinct objects and minimal pre-processing. I made sure that the particles in the image were clearly distinguishable from the background.
 
-**Step 1: Opening and Preparation of the Image**
+**Step 2: Opening and Preparation of the Image**
 
 I first copied the image by right clicking on the image and selecting 'copy'.
 Then I pasted the image in ImageJ by using: Edit → Paste.
