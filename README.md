@@ -7,26 +7,25 @@ I began by retrieving a raw AATF image from the OpenCell online database, priori
 **Step 1: Opening and Preparation of the Image**
 
 I first copied the image by right clicking on the image and selecting 'copy'.
-Then I pasted the image in ImageJ by using: Edit → Paste
+Then I pasted the image in ImageJ by using: Edit → Paste.
 
-I converted the image to 8-bit grayscale to standardize the format by using: Image → Type → 8-bit
+I converted the image to 8-bit grayscale to standardize the format by using: Image → Type → 8-bit.
 
-Then I removed background noise with the help of subtract background function:
-Process → Subtract Background
+Then I removed background noise with the help of subtract background function: Process → Subtract Background.
 'Rolling Ball Radius' was adjusted to *12 pixels* and 'Light background' option was *deselected*
 
-Later I adjusted the brightness and contrast: Image → Adjust → Brightness/Contrast
+Later I adjusted the brightness and contrast: Image → Adjust → Brightness/Contrast.
 I applied 'Auto' about 6-7 times till I found the result satisfactory and the clicked 'Apply'.
 
 **Step 3: Thresholding the image**
 
-I applied threshold to separate particles from the background by using: Image → Adjust → Threshold
+I applied threshold to separate particles from the background by using: Image → Adjust → Threshold.
 Method used was set to *Default*, Lower threshold value was *96*, Upper threshold value was *255* and, 'Dark background' and 'Don't reset range' was *selected*.
 
 I adjusted the threshold by clicking on 'Auto' until the particles appeared clearly highlighted while minimizing backgroun.
 After achieving a result to my liking, I applied the threshold by clicking on 'Apply'.
 
-Then, I applied watershed segmentation by using: Process → Binary → Watershed
+Then, I applied watershed segmentation by using: Process → Binary → Watershed.
 
 **Step 4: Particle Analysis of the Image**
 
