@@ -41,8 +41,9 @@ The results table was saved as a CSV file: Results → File → Save As
 It was saved as 'particle_count_result_aatf.csv'
 
 The processed image was then saved as a TIFF file: File → Save As → TIFF.
-It was saved as 'result_image_aatf.tif'.
+It was saved as 'result_image_aatf.tif'
+The final image was saved as 'aatf_final_result_image.png'
 
 ### The Final Result
 
-The final result of the assignment was a CSV file containing quantitative measurements of all detected particles and an image with particle boundaries that were clearly marked.
+The final result of the assignment was a CSV file containing quantitative measurements of all detected particles and an image with annotated sections and particle boundaries that were clearly marked.
