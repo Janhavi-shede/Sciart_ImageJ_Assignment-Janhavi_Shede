@@ -20,9 +20,9 @@ I applied 'Auto' about 6-7 times till I found the result satisfactory and the cl
 **Step 3: Thresholding the image**
 
 I applied threshold to separate particles from the background by using: Image → Adjust → Threshold.
-Method used was set to *Default*, Lower threshold value was *96*, Upper threshold value was *255* and, 'Dark background' and 'Don't reset range' was *selected*.
+Method used was set to *Default*, Lower threshold value was *96*, Upper threshold value was *255* and, 'Dark background' and 'Don't reset range' were *selected*.
 
-I adjusted the threshold by clicking on 'Auto' until the particles appeared clearly highlighted while minimizing backgroun.
+I adjusted the threshold by clicking on 'Auto' until the particles appeared clearly highlighted while minimizing background.
 After achieving a result to my liking, I applied the threshold by clicking on 'Apply'.
 
 Then, I applied watershed segmentation by using: Process → Binary → Watershed.
