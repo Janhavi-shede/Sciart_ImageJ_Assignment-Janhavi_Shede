@@ -2,7 +2,7 @@
 
 ### Step 1: Data sorcing and Documentation
 
-I began by retrieving a raw AATF image from the OpenCell online database, prioritizing a sample with distinct objects and minimal pre-processing. To maintain experimental integrity. I made sure that the particles in the image were clearly distinguishable from the background and that the image was not pre-processed.
+I began by retrieving a raw AATF image from the OpenCell online database, prioritizing a sample with distinct objects and minimal pre-processing. To maintain experimental integrity. I made sure that the particles in the image were clearly distinguishable from the background.
 
 ### Step 1: Opening and Preparation of the Image
 
