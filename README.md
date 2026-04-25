@@ -46,5 +46,3 @@ It was saved as 'result_image_aatf.tif'.
 ### The Final Result
 
 The final result of the assignment was a CSV file containing quantitative measurements of all detected particles and an image with particle boundaries that were clearly marked.
-
-This protocol ensures reproducible particle detection and analysis in ImageJ, with parameter selection tailored to the specific image.
